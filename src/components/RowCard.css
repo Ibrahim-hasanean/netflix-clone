@@ -1,0 +1,12 @@
+.rowCard {
+  min-width: 250px;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 15px;
+  margin-right: 10px;
+  transition: transform 450ms;
+}
+.rowCard:hover {
+  transform: scale(1.05);
+}

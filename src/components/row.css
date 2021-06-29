@@ -1,0 +1,13 @@
+.row h3 {
+  color: white;
+}
+
+.cardContainer {
+  display: flex;
+  overflow-x: scroll;
+  padding: 1rem;
+}
+
+.cardContainer::-webkit-scrollbar {
+  display: none;
+}
